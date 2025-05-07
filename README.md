@@ -1,6 +1,11 @@
 Приветствую дружище это сносер для телеграм акаунтов\каналов\ботов в нем уже около 140 сессий 
 Hello buddy this is a snoser for telegram accounts\channels\bots there are already about 140 sessions in it
 
+
+![image](https://github.com/user-attachments/assets/8b359880-14af-4b9d-839a-3b9838bfac83)
+
+
+
 Скрипт в целом хороший новореги сносит за +- 5 минут 
 Максимальная отлега которую сносил 3.2 года сносил около 2.5 часов 
 
