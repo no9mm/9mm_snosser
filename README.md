@@ -33,13 +33,14 @@ git clone https://github.com/no9mm/9mm_snosser.git
 cd 9mm_snosser
 
 pip install pystyle
+
 pip install requests
+
 pip install telethon
 
 python snosser.py
 
-
-
+И все скрипт запущен, по поводу сотрудничества @uiyfOyd96 (telegram)
 
 
 
